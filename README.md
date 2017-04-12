@@ -3,7 +3,7 @@ Project to find an alternative output from the PhyloPyhiaS+ software output.
 
 ## 1. Run Kaiju
 ```
-kaiju -t nodes.dmp -f kaiju_db.fmi -i inputfile.fastq
+kaiju -t nodes.dmp -f kaiju_db.fmi -i inputfile.fastq/fasta
 ```
 
 ## 2. Run addTaxonNames with the resulting output (Kaiju's tool)
